@@ -30,7 +30,7 @@ int main() {
     float area2 = 331.40;
     double pib2 = 90.00; // PIB em bilhões
     int pontos_turisticos2 = 30;
-    char estado2 = 'B'; // Estado B para Carta 2
+    char estado2 = 'B'; // Estado B para Carta 2 
     
    
     // Exibição dos Dados das Cartas:
